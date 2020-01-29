@@ -1,5 +1,5 @@
 rootProject.name = 'gradle_java9_modules'
 
 include 'com.marcellorvalle.tools'
-include 'com.marcellorvalle.consumer'
+include 'com.marcellorvalle.client'
 
